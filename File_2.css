@@ -1,4 +1,8 @@
 <!DOCTYPE html/> <html>
 html {
-  font-family: ariel;
+  font-family: sans-serif;
+}
+h1 {
+  font-family: sans-serif;
+  font-size: 30px;
 }
