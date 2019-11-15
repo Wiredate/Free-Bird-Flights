@@ -4,15 +4,17 @@ html {
 }
 h1 {
   font-family: sans-serif;
-  font-size: 30px;
+  font-size: 50px;
   text-align: middle;
   font-color: blue;
 }
 
 p {
-  font-size: 25px;
+  font-size: 20px;
   font-color: black;
 }
-link {
+a {
+font-color: blue;
+  font-size: 25px;
   
-
+}  
