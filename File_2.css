@@ -1,6 +1,6 @@
 html {
   font-family: sans-serif;
-  background color: white;
+  background color: grey;
 }
 h1 {
   font-family: sans-serif;
@@ -8,7 +8,17 @@ h1 {
   text-align: middle;
   font-color: blue;
 }
-
+h2 {
+  font-family: sans-serif;
+  font-size: 40px;
+  font-color: blue;
+  
+}
+h3 {
+  font-size: 30px;
+  font-color: blue;
+  
+}
 p {
   font-size: 20px;
   font-color: black;
