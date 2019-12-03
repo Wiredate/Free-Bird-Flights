@@ -1,30 +1,30 @@
 html {
   font-family: sans-serif;
-  background color: grey;
+  background color: #000ea8;
 }
 h1 {
   font-family: sans-serif;
   font-size: 50px;
   text-align: middle;
-  font-color: blue;
+  font-color: ;
 }
 h2 {
   font-family: sans-serif;
   font-size: 40px;
-  font-color: blue;
+  font-color: ;
   
 }
 h3 {
   font-size: 30px;
-  font-color: blue;
+  font-color: ;
   
 }
 p {
   font-size: 20px;
-  font-color: black;
+  font-color: ;
 }
 a {
-font-color: blue;
+font-color: ;
   font-size: 25px;
   
 }  
